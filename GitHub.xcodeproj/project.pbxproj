@@ -13,6 +13,7 @@
 		F8770D4D2AE7A7DF0028DCD0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8770D4C2AE7A7DF0028DCD0 /* Preview Assets.xcassets */; };
 		F8770D542AE7E6E50028DCD0 /* NotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8770D532AE7E6E50028DCD0 /* NotificationView.swift */; };
 		F8770D562AE81FBE0028DCD0 /* Explore.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8770D552AE81FBE0028DCD0 /* Explore.swift */; };
+		F8770D582AE90DF10028DCD0 /* profileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8770D572AE90DF10028DCD0 /* profileView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		F8770D4C2AE7A7DF0028DCD0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		F8770D532AE7E6E50028DCD0 /* NotificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationView.swift; sourceTree = "<group>"; };
 		F8770D552AE81FBE0028DCD0 /* Explore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Explore.swift; sourceTree = "<group>"; };
+		F8770D572AE90DF10028DCD0 /* profileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = profileView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				F8770D4B2AE7A7DF0028DCD0 /* Preview Content */,
 				F8770D532AE7E6E50028DCD0 /* NotificationView.swift */,
 				F8770D552AE81FBE0028DCD0 /* Explore.swift */,
+				F8770D572AE90DF10028DCD0 /* profileView.swift */,
 			);
 			path = GitHub;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 			files = (
 				F8770D482AE7A7DD0028DCD0 /* HomeView.swift in Sources */,
 				F8770D462AE7A7DD0028DCD0 /* GitHubApp.swift in Sources */,
+				F8770D582AE90DF10028DCD0 /* profileView.swift in Sources */,
 				F8770D542AE7E6E50028DCD0 /* NotificationView.swift in Sources */,
 				F8770D562AE81FBE0028DCD0 /* Explore.swift in Sources */,
 			);

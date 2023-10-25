@@ -32,6 +32,12 @@ struct GitHubApp: App {
                             
                                  }
                 
+                profileView()
+                    .tabItem {
+                    Label("Profile",systemImage: "person")
+                            
+                                 }
+                
             }
             
         }
