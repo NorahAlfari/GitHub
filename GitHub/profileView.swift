@@ -9,7 +9,7 @@ import SwiftUI
 
 struct profileView: View {
     var body: some View {
-        NavigationView{
+        NavigationStack{
             ScrollView{
                 HStack{
                     Circle()
